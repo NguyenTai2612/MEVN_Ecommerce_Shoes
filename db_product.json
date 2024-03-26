@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "655de202c0c9bfe2a108c38d"
+  },
+  "title": "Giày Air Jordan 1 Elevate",
+  "desc": "Giày Air Jordan 1 Elevate Low ‘French Blue’ (WMNS) DH7004-400",
+  "img": [
+    "https://sneakerdaily.vn/wp-content/uploads/2023/09/main-square_f5adc8df-29d0-4181-8.jpg",
+    "https://sneakerdaily.vn/wp-content/uploads/2023/09/main-square_f5adc8df-29d0-4181-8.jpg"
+  ],
+  "categories": "Jordan",
+  "size": "FreeSize",
+  "color": "Xanh Trắng",
+  "price": 100,
+  "createdAt": {
+    "$date": "2023-11-22T11:12:02.937Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T11:12:02.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e0f72fab8e3af024cf342"
+  },
+  "title": "Giày Air Jordan 2",
+  "desc": "Giày Air Jordan 1 Elevate Low ‘Rookie of the Year’ (WMNS) DH7004-701",
+  "img": [
+    "https://sneakerdaily.vn/wp-content/uploads/2023/09/main-square_f35eca5b-0512-490a-a.jpg",
+    "https://sneakerdaily.vn/wp-content/uploads/2023/09/main-square_f35eca5b-0512-490a-a.jpg"
+  ],
+  "categories": "Jordan",
+  "size": "40",
+  "color": "Trắng Nâu",
+  "price": 300,
+  "createdAt": "2022-04-26T08:06:22.434Z",
+  "updatedAt": "2023-05-03T22:52:50.913Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e0fbffab8e3af024cf343"
+  },
+  "title": "Giày Air Jordan 3",
+  "desc": "Giày Air Jordan 1 Elevate High SP ‘Union LA Bephie’s Beauty Supply Woven’ (WMNS) FD0696-100",
+  "img": [
+    "https://sneakerdaily.vn/wp-content/uploads/2023/08/giay-wmns-air-jordan-1-elevate-high-sp-union-la-bephies-beauty-supply-woven-fd0696-100-8.jpg.webp",
+    "https://sneakerdaily.vn/wp-content/uploads/2023/08/giay-wmns-air-jordan-1-elevate-high-sp-union-la-bephies-beauty-supply-woven-fd0696-100-8.jpg.webp"
+  ],
+  "categories": "Jordan",
+  "size": "Free Size",
+  "color": "Đen",
+  "price": 199,
+  "createdAt": "2022-04-26T09:26:57.438Z",
+  "updatedAt": "2023-05-03T22:39:01.607Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e0fccfab8e3af024cf344"
+  },
+  "title": "Giày Air Jordan 4",
+  "desc": "Giày Air Jordan 1 Elevate High ‘Titanium’ DN3253-105",
+  "img": [
+    "https://sneakerdaily.vn/wp-content/uploads/2023/08/giay-air-jordan-1-elevate-high-titanium-dn3253-105.jpg.webp",
+    "https://sneakerdaily.vn/wp-content/uploads/2023/08/giay-air-jordan-1-elevate-high-titanium-dn3253-105.jpg.webp"
+  ],
+  "categories": "Jordan",
+  "size": "Free Size",
+  "color": "Xanh Dương Nhạt",
+  "price": 399,
+  "createdAt": "2022-04-26T09:27:57.144Z",
+  "updatedAt": "2023-05-03T22:40:20.111Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e0fdafab8e3af024cf345"
+  },
+  "title": "Giày Air Jordan 5",
+  "desc": "Giày Nike Jordan 1 Elevate Low Midnight ‘Navy’ (W) DH7004-141",
+  "img": [
+    "https://sneakerdaily.vn/wp-content/uploads/2022/11/Giay-Nike-Jordan-1-Elevate-Low-Midnight-Navy-W-DH7004-141.jpg.webp",
+    "https://sneakerdaily.vn/wp-content/uploads/2022/11/Giay-Nike-Jordan-1-Elevate-Low-Midnight-Navy-W-DH7004-141.jpg.webp"
+  ],
+  "categories": "Jordan",
+  "size": "Free Size",
+  "color": "Hồng",
+  "price": 400,
+  "createdAt": "2022-04-26T09:28:45.152Z",
+  "updatedAt": "2023-05-03T22:41:42.139Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e0fe8fab8e3af024cf346"
+  },
+  "title": "Giày Converse Chuck 70 Dia De Muertos",
+  "desc": "Giày Converse Chuck 70 Dia De Muertos",
+  "img": [
+    "https://product.hstatic.net/200000265619/product/a07985c_web_cde8b9e48bd846ddb21970db57d4a199_1024x1024.jpg",
+    "https://product.hstatic.net/200000265619/product/a07985c_web_cde8b9e48bd846ddb21970db57d4a199_1024x1024.jpg"
+  ],
+  "categories": "Converse",
+  "size": "41",
+  "color": "Cam",
+  "price": 350,
+  "createdAt": "2022-04-26T09:30:10.743Z",
+  "updatedAt": "2023-05-03T22:54:22.760Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e0ff5fab8e3af024cf347"
+  },
+  "title": "Giày Converse Chuck 70 At-Cx Dia De Muertos",
+  "desc": "Giày Converse Chuck 70 At-Cx Dia De Muertos",
+  "img": [
+    "https://product.hstatic.net/200000265619/product/a07987c_web_e162e2d1be09421f884fc876aafaa850_1024x1024.jpg",
+    "https://product.hstatic.net/200000265619/product/a07987c_web_e162e2d1be09421f884fc876aafaa850_1024x1024.jpg"
+  ],
+  "categories": "Converse",
+  "size": "41",
+  "color": "Đỏ",
+  "price": 59,
+  "createdAt": "2022-04-26T09:32:49.287Z",
+  "updatedAt": "2023-05-03T23:06:22.270Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e1000fab8e3af024cf348"
+  },
+  "title": "Giày Converse Run Star Legacy Cx Dia De Muertos",
+  "desc": "Thời gian đổi trả hàng: Trong vòng 15 ngày (đối với sản phẩm nguyên giá) và 05 ngày (đối với sản phẩm khuyến mãi) kể từ ngày khách hàng nhận được sản phẩm",
+  "img": [
+    "https://product.hstatic.net/200000265619/product/a07986c_web_8a4bd4e38ed3404aa5d7c30626a26586_1024x1024.jpg",
+    "https://product.hstatic.net/200000265619/product/a07986c_web_8a4bd4e38ed3404aa5d7c30626a26586_1024x1024.jpg"
+  ],
+  "categories": "Converse",
+  "size": "40",
+  "color": "Trắng, hồng",
+  "price": 240,
+  "createdAt": "2022-04-26T18:24:18.224Z",
+  "updatedAt": "2023-05-03T22:47:20.818Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e100dfab8e3af024cf349"
+  },
+  "title": "Chuck Taylor Classic",
+  "desc": "Thời gian đổi trả hàng: Trong vòng 15 ngày (đối với sản phẩm nguyên giá) và 05 ngày (đối với sản phẩm khuyến mãi) kể từ ngày khách hàng nhận được sản phẩm",
+  "img": [
+    "https://mauweb.monamedia.net/converse/wp-content/uploads/2019/05/women-classic-2-600x384.jpg",
+    "https://mauweb.monamedia.net/converse/wp-content/uploads/2019/05/women-classic-2-600x384.jpg"
+  ],
+  "categories": "Other",
+  "size": "42",
+  "color": "Xám Trắng",
+  "price": 169,
+  "createdAt": "2022-04-27T05:10:58.544Z",
+  "updatedAt": "2023-05-03T22:48:57.479Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e1018fab8e3af024cf34a"
+  },
+  "title": "Chuck Taylor Classic Red",
+  "desc": "MÀU SẮC BLACK THÔNG SỐ Dáng regular fit Có dây giày Thân giày bằng vải dệt adidas PRIMEKNIT Gót giày mềm mại Hệ thống Linear Energy Push Đế giữa BOOST Trọng lượng: 333 g (size UK 8.5) Đế ngoài Stretchweb làm từ cao su Continental™ Better Rubber Thân giày làm từ sợi dệt có chứa ít nhất 50% chất liệu Parley Ocean Plastic và 50% polyester tái chế",
+  "img": [
+    "https://mauweb.monamedia.net/converse/wp-content/uploads/2019/05/women-classic-3-600x384.jpg",
+    "https://mauweb.monamedia.net/converse/wp-content/uploads/2019/05/women-classic-3-600x384.jpg"
+  ],
+  "categories": "Other",
+  "size": "41",
+  "color": "Xám",
+  "price": 200,
+  "createdAt": "2022-04-27T05:12:10.723Z",
+  "updatedAt": "2023-05-03T22:49:58.382Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e1021fab8e3af024cf34b"
+  },
+  "title": "Chuck Taylor Classic Black",
+  "desc": "Phù hợp với mọi nhu cầu sử dụng, Biti's Hunter Core mới \"chào sân\" với 3 phối màu trung tính cho mùa hè năng động.&nbsp;Mẫu giày nổi bật cho trải nghiệm đẹp - nhẹ - bền, phù hợp cho mọi hoạt động thường ngày - kể cả hoạt động thể thao cơ bản. Lượt dệt 3D kết hợp Mesh mát, thoáng khí, co dãn tốt, ít thấm nước và ôm sát. Lót quai thun 4 chiều và 2 lớp xốp đệm êm ái. Lót đế trong: 2 lớp kết hợp Ortholite và Eva ôm trọn lòng bàn chân , êm ái, kháng khuẩn với các lỗ đối lưu thoáng khí. Thiết kế đế năng động, cá tính.",
+  "img": [
+    "https://mauweb.monamedia.net/converse/wp-content/uploads/2019/05/women-classic-4-600x384.jpg",
+    "https://mauweb.monamedia.net/converse/wp-content/uploads/2019/05/women-classic-4-600x384.jpg"
+  ],
+  "categories": "Other",
+  "size": "39",
+  "color": "Nâu",
+  "price": 39,
+  "createdAt": "2022-04-27T05:14:35.334Z",
+  "updatedAt": "2023-05-03T22:58:55.552Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e102ffab8e3af024cf34c"
+  },
+  "title": "Giày Air Jordan 222 Elevate",
+  "desc": "Giày Air Jordan 1 Elevate Low ‘French Blue’ (WMNS) DH7004-400",
+  "img": [
+    "https://sneakerdaily.vn/wp-content/uploads/2023/09/main-square_f5adc8df-29d0-4181-8.jpg",
+    "https://sneakerdaily.vn/wp-content/uploads/2023/09/main-square_f5adc8df-29d0-4181-8.jpg"
+  ],
+  "categories": "Jordan",
+  "size": "FreeSize",
+  "color": "Xanh Trắng",
+  "price": 100,
+  "createdAt": {
+    "$date": "2023-11-22T11:12:02.937Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T11:12:02.937Z"
+  },
+  "__v": 0
+}]

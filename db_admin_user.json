@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "655d866e06e0d489e7f208d3"
+  },
+  "email": "tainguyen@example.com",
+  "isAdmin": true,
+  "password": "U2FsdGVkX1+L6/Y9p6G7klVjicQYyfxLqSRd1/pmeYw=",
+  "username": "tainguyen",
+  "updatedAt": {
+    "$date": "2023-11-22T14:13:35.902Z"
+  }
+}]
